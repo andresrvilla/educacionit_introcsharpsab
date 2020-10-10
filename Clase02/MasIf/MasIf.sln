@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasIf", "MasIf\MasIf.csproj", "{B22A682B-ECA8-4258-88F3-DE75835C0FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22A682B-ECA8-4258-88F3-DE75835C0FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22A682B-ECA8-4258-88F3-DE75835C0FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22A682B-ECA8-4258-88F3-DE75835C0FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22A682B-ECA8-4258-88F3-DE75835C0FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD96573-F0BE-44C2-83A3-3233C2B69723}
+	EndGlobalSection
+EndGlobal
